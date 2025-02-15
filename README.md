@@ -2,7 +2,7 @@
 
 A **comprehensive 300-page Excel module** covering everything from **basic navigation** to **advanced data analysis and automation**. This guide is perfect for **students, professionals, and data analysts** looking to master Excel efficiently.  
 
-📥 **Download the Full PDF Here → [GitHub Link](https://github.com/YOUR_USERNAME/Excel-Beginner-to-Advanced-Guide/blob/main/Excel_Module.pdf)**  
+📥 **Download the Full PDF Here → [GitHub Link](https://github.com/sultan7557/Excel-Beginner-to-Advanced-Guide/blob/240cf5455d81046fa9185a15c1cda09c4fa42dd8/EXCEL(Beginner%20to%20Advanced)%20by%20Muhammad%20Ali%20Sultan.pdf)**  
 
 ---
 
