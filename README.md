@@ -49,7 +49,7 @@ A **comprehensive 300-page Excel module** covering everything from **basic navig
 ---
 
 ## **📩 Connect & Feedback**  
-Have questions or suggestions? Feel free to open an **issue** or connect with me on **[LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/muhammad-ali-sultans/))**.  
+Have questions or suggestions? Feel free to open an **issue** or 🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-sultans/)**  
 
 🔗 **Follow for more **  
 
